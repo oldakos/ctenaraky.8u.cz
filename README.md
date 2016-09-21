@@ -1,3 +1,3 @@
 # ctenaraky.8u.cz
-yeah
+yeah;
 second yeah
